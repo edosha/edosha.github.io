@@ -1,0 +1,22 @@
+#+OPTIONS: toc:nil title:nil html-postamble:nil ^:nil
+#+TITLE: こっちまんの習い事
+
+* 空手
+
+| 名前       | [[http://www.niji.jp/home/kuwajimadojo/index.html][桑島道場]]                 | [[https://www.jka.or.jp/branch-search/branch-detail/?id=2886][日本空手協会]]       |
+| 場所       | [[https://goo.gl/maps/kcpj7DckzBD2][志度]]                     | 三木町役場となり   |
+| クラス     | わんぱくからて教室       | ？                 |
+| 曜日・時間 | 土 17:00 - 18:00         | 土 11:00 - 13:00 ? |
+| 入会金     | 10,800                   | ？                 |
+| 月額       | 5,400                    | ？                 |
+| その他     | 3月～4月入会キャンペーン | 詳細不明           |
+
+* 体操
+
+| 名前       | [[http://takamatsu-gym.com/school/fan.html][ファン体操クラブ]]     | [[http://www.sansankanmiki.jp/general#ttl-kodomotaisyoukouza][さんさん館]]                  | [[http://www.ninja9.jp/kagawa/][忍者ナイン]]         |
+| 場所       | [[https://goo.gl/maps/wbGJx135eiM2][牟礼]]                 | さんさん館                  | [[https://goo.gl/maps/oJiiHpwwQpD2][多肥下町]]           |
+| クラス     | A コース (年中～小3) | 子供体操 幼児コース (4-6歳) | 中忍コース (4-5歳) |
+| 曜日・時間 | 土 16:00 - 17:00     | 木 15:45 - 16:30            | 土 9:20 - 10:50    |
+| 入会金     | ？                   | ？                          | ？                 |
+| 月額       | 5,500 + 年会費 3,000 | 2,160                       | 8,640              |
+| その他     | 高松町にもある       | 今の所満員                  |                    |
