@@ -3,23 +3,24 @@
 
 * 空手
 
-| 名前       | [[http://www.niji.jp/home/kuwajimadojo/index.html][桑島道場]]                 | [[https://www.jka.or.jp/branch-search/branch-detail/?id=2886][日本空手協会]]       | [[https://harauchi-dojo.com/dojo/takamatsu-higashi/][原内道場]]               |
-| 場所       | [[https://goo.gl/maps/kcpj7DckzBD2][志度]]                     | 三木町役場となり   | [[https://goo.gl/maps/7YGBvdNaBXz][由楽里の湯付近]]         |
-| クラス     | わんぱくからて教室       | ？                 | キッズビギナークラス   |
-| 曜日・時間 | 土 17:00 - 18:00         | 土 11:00 - 13:00 ? | 月 or 木 16:00 - 16:45 |
-| 入会金     | 10,800                   | ？                 | 6,000                  |
-| 月額       | 5,400                    | ？                 | 5,400                  |
-| その他     | 3月～4月入会キャンペーン | 詳細不明           | 3月入会キャンペーン    |
+| 名前       | [[https://harauchi-dojo.com/dojo/takamatsu-higashi/][原内道場]]                             | [[http://www.lively-kodomo.jp/school/][日本傳少林寺流 全日本滴水曾館]]  | [[http://www.niji.jp/home/kuwajimadojo/index.html][桑島道場]]                 | [[http://bugakukan.com/takamatu/otatyuou/][武学館]]                       |
+| 場所       | [[https://goo.gl/maps/jCkFjsjHuVS2][香東中学校付近]]                       | 国分寺南部コミュニティセンター | [[https://goo.gl/maps/s76CsME5Nnz][栗林公園付近]]             | [[https://goo.gl/maps/Sf2EWtpmAHy][太田中央コミュニティセンター]] |
+| クラス     | キッズビギナークラス                 |                                | 幼年わんぱく教室         | ?                            |
+| 曜日・時間 | 木 17:20 - 18:20 or 土 15:30 - 16:30 | 金 18:00 - 18:50               | 土 17:00 - 18:00         | 水 17:00 - or 日 10:00 - ?   |
+| 入会金     | 6,000                                |                                | 10,800                   | ?                            |
+| 月額       | 5,400                                | 3,900                          | 5,400                    | ?                            |
+| その他     | 3月入会キャンペーン                  |                                | 3月～4月入会キャンペーン |                              |
+|            | 問い合わせ中                         |                                |                          |                              |
 
 * 体操
 
-| 名前       | [[http://takamatsu-gym.com/school/fan.html][ファン体操クラブ]]     | [[http://www.sansankanmiki.jp/general#ttl-kodomotaisyoukouza][さんさん館]]                  | [[http://www.ninja9.jp/kagawa/][忍者ナイン]]         | [[http://wwwe.pikara.ne.jp/affectionate-rg/jikan.html][Affectionate RG]]                                 |
-| 場所       | [[https://goo.gl/maps/wbGJx135eiM2][牟礼]]                 | さんさん館                  | [[https://goo.gl/maps/oJiiHpwwQpD2][多肥下町]]           | 川部スポーツセンター                            |
-| クラス     | A コース (年中～小3) | 子供体操 幼児コース (4-6歳) | 中忍コース (4-5歳) | 幼児クラス                                      |
-| 曜日・時間 | 土 16:00 - 17:00     | 木 15:45 - 16:30            | 土 9:20 - 10:50    | 月 15:40 - 16:30 (川部) 土 10:30 - 11:20 (屋島) |
-| 入会金     | ？                   | ？                          | ？                 | 6,000                                           |
-| 月額       | 5,500 + 年会費 3,000 | 2,160                       | 8,640              | 4,500 + 年会費 4,000                            |
-| その他     | 高松町にもある       | 今の所満員                  |                    |                                                 |
+| 名前       | [[http://www.ninja9.jp/kagawa/][忍者ナイン]]         | [[https://www.kamatamare-npo.jp/class/2012/07/post-3.html][チャレンジ！体操教室]] | [[http://takamatsu-gym.com/school/fan.html][ファン体操クラブ]]     | [[http://wwwe.pikara.ne.jp/affectionate-rg/jikan.html][Affectionate RG]]                                 |
+| 場所       | [[https://goo.gl/maps/oJiiHpwwQpD2][多肥下町]]           | 香南町体育館         | [[https://goo.gl/maps/wbGJx135eiM2][牟礼]]                 | 川部スポーツセンター                            |
+| クラス     | 中忍コース (4-5歳) |                      | A コース (年中～小3) | 幼児クラス                                      |
+| 曜日・時間 | 土 9:20 - 10:50    | 金 16:30 - 18:00     | 土 16:00 - 17:00     | 月 15:40 - 16:30 (川部) 土 10:30 - 11:20 (屋島) |
+| 入会金     | ？                 |                      | ？                   | 6,000                                           |
+| 月額       | 8,640              | 3,000                | 5,500 + 年会費 3,000 | 4,500 + 年会費 4,000                            |
+| その他     | 問い合わせ中       |                      | 高松町にもある       |                                                 |
 
 * 音楽
 
